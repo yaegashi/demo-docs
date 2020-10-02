@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo docs</title>
-    <link>demo-docs/</link>
+    <link>/demo-docs/</link>
     <description>Recent content on Demo docs</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="demo-docs/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/demo-docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azbill Web App</title>
-      <link>demo-docs/design/azbill-web-app/</link>
+      <link>/demo-docs/design/azbill-web-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>demo-docs/design/azbill-web-app/</guid>
+      <guid>/demo-docs/design/azbill-web-app/</guid>
       <description>注意: これは実在しないアプリのドキュメントです。 アーキテクチャ 組織内の Azure の利用状況のレポートを作成し、ダッシュボードの web アプリで閲覧できるよ</description>
     </item>
     

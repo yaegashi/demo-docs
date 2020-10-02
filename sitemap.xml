@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>demo-docs/design/azbill-web-app/</loc>
+    <loc>/demo-docs/design/azbill-web-app/</loc>
     <lastmod>2020-10-02T18:10:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>demo-docs/categories/</loc>
+    <loc>/demo-docs/categories/</loc>
   </url>
   
   <url>
-    <loc>demo-docs/</loc>
+    <loc>/demo-docs/</loc>
     <lastmod>2020-10-02T18:10:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>demo-docs/design/</loc>
+    <loc>/demo-docs/design/</loc>
     <lastmod>2020-10-02T18:10:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>demo-docs/tags/</loc>
+    <loc>/demo-docs/tags/</loc>
   </url>
   
 </urlset>
